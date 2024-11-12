@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+   
+    
+}
+
+caption {
+    padding: 10px;
+    font-size: 1.6em;
+}
+
+td,th {
+    border: 1px solid black;
+    width: 150px;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #707370;
+    color: white;
+}
+
+.cor {
+    background-color: #707370;
+    color: white;
+}
